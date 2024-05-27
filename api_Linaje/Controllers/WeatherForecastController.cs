@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Linaje.Controllers;
+namespace api_Linaje.Controllers;
 
 [ApiController]
 [Route("[controller]")]

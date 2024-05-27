@@ -1,4 +1,4 @@
-namespace Linaje;
+namespace api_Linaje;
 
 public class WeatherForecast
 {

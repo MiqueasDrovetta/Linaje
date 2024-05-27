@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "0aAdhhckJPAdMEZdMmvIZEG24IkvGeF3YOkaVsUxEVWyyyX033mQg0v3R2B3RztsCyPy7NG10LKx6k35w5k8xw==",
+  "dgSpecHash": "z4dKfPtByKtlggjHwbb4Je9PInz7d7tPKsuFQdFvc/R8Dm+JOq+aghgvVlM8YTF3wnR2RQY1WQU7NE6gnfB6hw==",
   "success": true,
-  "projectFilePath": "/home/administrador/Ing Software 2024/ProyectoRedSocial/Linaje/Linaje.csproj",
+  "projectFilePath": "/home/administrador/Ing Software 2024/ProyectoRedSocial/Linaje/api_Linaje/api_Linaje.csproj",
   "expectedPackageFiles": [
     "/home/administrador/.nuget/packages/microsoft.aspnetcore.openapi/7.0.9/microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
     "/home/administrador/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/home/administrador/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
-    "/home/administrador/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/home/administrador/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "/home/administrador/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "/home/administrador/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",

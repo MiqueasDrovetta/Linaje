@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/administrador/Ing Software 2024/ProyectoRedSocial/Linaje/Linaje.csproj": {}
+    "/home/administrador/Ing Software 2024/ProyectoRedSocial/Linaje/entities_library/entities_library.csproj": {}
   },
   "projects": {
-    "/home/administrador/Ing Software 2024/ProyectoRedSocial/Linaje/Linaje.csproj": {
+    "/home/administrador/Ing Software 2024/ProyectoRedSocial/Linaje/entities_library/entities_library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/administrador/Ing Software 2024/ProyectoRedSocial/Linaje/Linaje.csproj",
-        "projectName": "Linaje",
-        "projectPath": "/home/administrador/Ing Software 2024/ProyectoRedSocial/Linaje/Linaje.csproj",
+        "projectUniqueName": "/home/administrador/Ing Software 2024/ProyectoRedSocial/Linaje/entities_library/entities_library.csproj",
+        "projectName": "entities_library",
+        "projectPath": "/home/administrador/Ing Software 2024/ProyectoRedSocial/Linaje/entities_library/entities_library.csproj",
         "packagesPath": "/home/administrador/.nuget/packages/",
-        "outputPath": "/home/administrador/Ing Software 2024/ProyectoRedSocial/Linaje/obj/",
+        "outputPath": "/home/administrador/Ing Software 2024/ProyectoRedSocial/Linaje/entities_library/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/administrador/.nuget/NuGet/NuGet.Config"
@@ -20,7 +20,6 @@
           "net7.0"
         ],
         "sources": {
-          "/usr/share/dotnet/sdk/7.0.306/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,20 +37,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[7.0.9, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.3, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.5.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -64,9 +49,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
