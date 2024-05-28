@@ -107,6 +107,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "entities_library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/entities_library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/entities_library.dll": {}
+        }
       }
     }
   },
@@ -460,12 +470,18 @@
         "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "entities_library/1.0.0": {
+      "type": "project",
+      "path": "../entities_library/entities_library.csproj",
+      "msbuildProject": "../entities_library/entities_library.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "Microsoft.AspNetCore.OpenApi >= 7.0.9",
-      "Swashbuckle.AspNetCore >= 6.5.0"
+      "Swashbuckle.AspNetCore >= 6.5.0",
+      "entities_library >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -493,7 +509,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/administrador/Ing Software 2024/ProyectoRedSocial/Linaje/entities_library/entities_library.csproj": {
+              "projectPath": "/home/administrador/Ing Software 2024/ProyectoRedSocial/Linaje/entities_library/entities_library.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

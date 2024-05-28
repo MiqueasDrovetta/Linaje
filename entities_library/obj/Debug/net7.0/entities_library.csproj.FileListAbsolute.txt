@@ -1,0 +1,12 @@
+/home/administrador/Ing Software 2024/ProyectoRedSocial/Linaje/entities_library/bin/Debug/net7.0/entities_library.deps.json
+/home/administrador/Ing Software 2024/ProyectoRedSocial/Linaje/entities_library/bin/Debug/net7.0/entities_library.dll
+/home/administrador/Ing Software 2024/ProyectoRedSocial/Linaje/entities_library/bin/Debug/net7.0/entities_library.pdb
+/home/administrador/Ing Software 2024/ProyectoRedSocial/Linaje/entities_library/obj/Debug/net7.0/entities_library.csproj.AssemblyReference.cache
+/home/administrador/Ing Software 2024/ProyectoRedSocial/Linaje/entities_library/obj/Debug/net7.0/entities_library.GeneratedMSBuildEditorConfig.editorconfig
+/home/administrador/Ing Software 2024/ProyectoRedSocial/Linaje/entities_library/obj/Debug/net7.0/entities_library.AssemblyInfoInputs.cache
+/home/administrador/Ing Software 2024/ProyectoRedSocial/Linaje/entities_library/obj/Debug/net7.0/entities_library.AssemblyInfo.cs
+/home/administrador/Ing Software 2024/ProyectoRedSocial/Linaje/entities_library/obj/Debug/net7.0/entities_library.csproj.CoreCompileInputs.cache
+/home/administrador/Ing Software 2024/ProyectoRedSocial/Linaje/entities_library/obj/Debug/net7.0/entities_library.dll
+/home/administrador/Ing Software 2024/ProyectoRedSocial/Linaje/entities_library/obj/Debug/net7.0/refint/entities_library.dll
+/home/administrador/Ing Software 2024/ProyectoRedSocial/Linaje/entities_library/obj/Debug/net7.0/entities_library.pdb
+/home/administrador/Ing Software 2024/ProyectoRedSocial/Linaje/entities_library/obj/Debug/net7.0/ref/entities_library.dll
