@@ -1,5 +1,5 @@
 using System;
-namespace Suma
+namespace Suma;
 public class Suma : OperacionMatematica
 {
     public override double Calcular(double a, double b)

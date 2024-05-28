@@ -1,6 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
 
-
 namespace api_Linaje.Controllers;
 
 
@@ -31,26 +30,4 @@ public class WeatherForecastController : ControllerBase
         })
         .ToArray();
     }
-
-    class Program
-{
-    static void Main(string[] args)
-    {
-        double numero1 = 10;
-        double numero2 = 5;
-
-        // Crear una lista de OperacionMatematica
-        List<OperacionMatematica> operaciones = new List<OperacionMatematica>();
-        operaciones.Add(new Suma());
-        operaciones.Add(new Resta());
-
-        // Recorrer la lista y llamar al método calcular en cada objeto
-        foreach (var operacion in operaciones)
-        {
-            double resultado = operacion.Calcular(numero1, numero2);
-            Console.WriteLine($"El resultado de la operación es: {resultado}");
-        }
-    }
-}
-
 }
